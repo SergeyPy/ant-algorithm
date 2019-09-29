@@ -1,11 +1,11 @@
 # ant-algorithm
 Тестовое задание - Machine Learning 2.0 / Napoleon IT School
+----------------------------------------------------------------
+     1 Инициализация матрицы
 
-1.Инициализация матрицы
-
-2.Устанавливаем параметры [iteration ,n_ants, n_citys, e, alpha, beta, start, pheromne]
+     2 Устанавливаем параметры [iteration ,n_ants, n_citys, e, alpha, beta, start, pheromne]
 	
-3.Алгоритм
+     3 Алгоритм
 
 	3.1 Вычисление матрицы видимости [1/d(i,j)]
 	
